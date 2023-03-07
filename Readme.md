@@ -5,7 +5,7 @@
 
 
 
-# Basic Counter
+# See What You Type
 
 -  Another simple project using javaScript, In this project whatever we write in the textbox , that text will shown below. Check the app by clicking on the given link below.
 ![Screenshot](./Image/See_What_You_Type.png "Template Screenshot")
